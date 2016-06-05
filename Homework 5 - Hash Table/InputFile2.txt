@@ -1,0 +1,40 @@
+13	0.77	Acrux, blue subgiant star, Crux
+12	0.76	Altair, white main-sequence star, Aquila
+1	-1.44	Sirius, white main-sequence star, Canis Major
+10	0.45	Betelgeuse, red supergiant star, Orion
+14	0.87	Aldebaran, orange giant star, Taurus
+5	0.03	Vega, white main-sequence star, Lyra
+15	0.98	Spica, blue subgiant star, Virgo
+11	0.61	Hadar, blue bright giant star, Centaurus
+6	0.08	Capella, yellow giant star, Auriga
+3	-0.05	Arcturus, orange giant star, Bootes
+9	0.45	Achernar, blue main-sequence star, Eridanus
+4	-0.01	Alpha Centauri A, yellow main-sequence star, Centaurus
+8	0.40	Procyon, white subgiant star, Canis Minor
+7	0.18	Rigel, blue supergiant star, Orion
+2	-0.62	Canopus, white bright giant star, Carina
+16	1.06	Antares, red supergiant star, Scorpius
+17	1.16	Pollux, yellow giant star, Gemini
+18	1.17	Fomalhaut, white main-sequence star, Piscis Austrinus
+19	1.25	Becrux, blue subgiant star, Crux
+20	1.25	Deneb, white supergiant star, Cygnus
+21	1.35	Alpha Centauri B, an orange dwarf star, Centaurus
+22	1.36	Regulus, blue subgiant star, Leo
+23	1.50	Adhara, blue giant star, Canis Major
+24	1.58	Castor, white subgiant star, Gemini
+25	1.59	Gacrux, red giant star, Crux
+26	1.62	Shaula, blue subgiant star, Scorpius
+27	1.64	Bellatrix, blue giant star, Orion
+28	1.65	El Nath, blue subgiant star, Taurus
+29	1.67	Miaplacidus, white giant star, Carina
+30	1.69	Alnilam, blue supergiant star, Orion
+31	1.73	Alnair, blue main-sequence star, Grus
+32	1.74	Alnitak, blue supergiant star, Orion
+33	1.75	Gamma-2 Velorum, type WC 8 star, Vela
+34	1.76	Alioth, white subgiant star, Ursa Major
+35	1.79	Mirphak, white supergiant star, Perseus
+36	1.79	Kaus Australis, white giant star, Sagittarius
+37	1.81	Dubhe, yellow giant star, Ursa Major
+38	1.83	Wezen, white supergiant star, Canis Major
+39	1.85	Alkaid, blue main-sequence star, Ursa Major
+40	1.86	Avior, an orange giant star, Carina

@@ -1,0 +1,25 @@
+13,0.77,Acrux, blue subgiant star,Crux
+12,0.76,Altair, white main-sequence star,Aquila
+1,-1.44,Sirius, white main-sequence star,Canis Major
+10,0.45,Betelgeuse, red supergiant star,Orion
+19,1.25,Becrux, a blue subgiant star in,Crux
+14,0.87,Aldebaran, orange giant star,Taurus
+5,0.03,Vega, white main-sequence star,Lyra
+24,1.58,Castor, a white subgiant star in,Gemini
+15,0.98,Spica, blue subgiant star,Virgo
+11,0.61,Hadar, blue bright giant star,Centaurus
+6,0.08,Capella, yellow giant star,Auriga
+3,-0.05,Arcturus, orange giant star,Bootes
+22,1.36,Regulus, a blue subgiant star in,Leo
+9,0.45,Achernar, blue main-sequence star,Eridanus
+4,-0.01,Alpha Centauri A, yellow main-sequence star,Centaurus
+7,0.18,Rigel, blue supergiant star,Orion
+2,-0.62,Canopus, white bright giant star,Carina
+16,1.06,Antares, a red supergiant star in,Scorpius
+17,1.16,Pollux, a yellow giant star in,Gemini
+18,1.17,Fomalhaut, a white main-sequence star in Piscis,Austrinus
+20,1.25,Deneb, a white supergiant star in,Cygnus
+21,1.35,Alpha Centauri B, an orange dwarf star in,Centaurus
+23,1.50,Adhara, a blue giant star in Canis,Major
+8,0.40,Procyon, white subgiant star,Canis Minor
+25,1.59,Gacrux, a red giant star in,Crux

@@ -1,0 +1,26 @@
+	#4 - Name: Alpha Centauri A, Magnitude: -0.010000, Type: yellow main-sequence star, Constellation: Centaurus
+	#5 - Name: Vega, Magnitude: 0.030000, Type: white main-sequence star, Constellation: Lyra
+	#10 - Name: Betelgeuse, Magnitude: 0.450000, Type: red supergiant star, Constellation: Orion
+	#21 - Name: Alpha Centauri B, Magnitude: 1.350000, Type: an orange dwarf star in, Constellation: Centaurus
+	#1 - Name: Sirius, Magnitude: -1.440000, Type: white main-sequence star, Constellation: Canis Major
+	#11 - Name: Hadar, Magnitude: 0.610000, Type: blue bright giant star, Constellation: Centaurus
+	#3 - Name: Arcturus, Magnitude: -0.050000, Type: orange giant star, Constellation: Bootes
+	#6 - Name: Capella, Magnitude: 0.080000, Type: yellow giant star, Constellation: Auriga
+	#12 - Name: Altair, Magnitude: 0.760000, Type: white main-sequence star, Constellation: Aquila
+	#23 - Name: Adhara, Magnitude: 1.500000, Type: a blue giant star in Canis, Constellation: Major
+	#2 - Name: Canopus, Magnitude: -0.620000, Type: white bright giant star, Constellation: Carina
+	#22 - Name: Regulus, Magnitude: 1.360000, Type: a blue subgiant star in, Constellation: Leo
+	#16 - Name: Antares, Magnitude: 1.060000, Type: a red supergiant star in, Constellation: Scorpius
+	#14 - Name: Aldebaran, Magnitude: 0.870000, Type: orange giant star, Constellation: Taurus
+	#24 - Name: Castor, Magnitude: 1.580000, Type: a white subgiant star in, Constellation: Gemini
+	#15 - Name: Spica, Magnitude: 0.980000, Type: blue subgiant star, Constellation: Virgo
+	#20 - Name: Deneb, Magnitude: 1.250000, Type: a white supergiant star in, Constellation: Cygnus
+	#13 - Name: Acrux, Magnitude: 0.770000, Type: blue subgiant star, Constellation: Crux
+	#7 - Name: Rigel, Magnitude: 0.180000, Type: blue supergiant star, Constellation: Orion
+	#8 - Name: Procyon, Magnitude: 0.400000, Type: white subgiant star, Constellation: Canis Minor
+	#17 - Name: Pollux, Magnitude: 1.160000, Type: a yellow giant star in, Constellation: Gemini
+	#18 - Name: Fomalhaut, Magnitude: 1.170000, Type: a white main-sequence star in Piscis, Constellation: Austrinus
+	#9 - Name: Achernar, Magnitude: 0.450000, Type: blue main-sequence star, Constellation: Eridanus
+	#25 - Name: Gacrux, Magnitude: 1.590000, Type: a red giant star in, Constellation: Crux
+	#19 - Name: Becrux, Magnitude: 1.250000, Type: a blue subgiant star in, Constellation: Crux
+	#1 - Name: Lucky Star, Magnitude: 0.820000, Type: A very bright vintage star, Constellation: Madonna

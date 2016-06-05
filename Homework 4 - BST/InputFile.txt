@@ -1,0 +1,15 @@
+13	0.77	Acrux, blue subgiant star, Crux
+12	0.76	Altair, white main-sequence star, Aquila
+1	-1.44	Sirius, white main-sequence star, Canis Major
+10	0.45	Betelgeuse, red supergiant star, Orion
+14	0.87	Aldebaran, orange giant star, Taurus
+5	0.03	Vega, white main-sequence star, Lyra
+15	0.98	Spica, blue subgiant star, Virgo
+11	0.61	Hadar, blue bright giant star, Centaurus
+6	0.08	Capella, yellow giant star, Auriga
+3	-0.05	Arcturus, orange giant star, Bootes
+9	0.45	Achernar, blue main-sequence star, Eridanus
+4	-0.01	Alpha Centauri A, yellow main-sequence star, Centaurus
+8	0.40	Procyon, white subgiant star, Canis Minor
+7	0.18	Rigel, blue supergiant star, Orion
+2	-0.62	Canopus, white bright giant star, Carina
